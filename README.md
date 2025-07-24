@@ -123,6 +123,11 @@ http://127.0.0.1:5000/
  Sessions are used to track user roles and access.
 
 
+![Home Page Screenshot](https://raw.githubusercontent.com/your-username/cab_booking/main/static/images/homepage.png)
+
+
+
+
 
 
  🧑‍💻 Author
